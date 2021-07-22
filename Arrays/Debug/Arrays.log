@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\glebs\source\repos\Arrays\Arrays\Main.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Arrays.vcxproj -> C:\Users\glebs\source\repos\Arrays\Debug\Arrays.exe
